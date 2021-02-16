@@ -3,6 +3,7 @@ I like C++ and C#
 ### Languages
 
 * C++
+* C
 * C#
 * Lua
 * Rust
