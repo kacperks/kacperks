@@ -16,7 +16,6 @@ I like C++ and C#
 <html>
     <head>
         <meta charset="utf-8">
-        <title>XaFF</title>
         <link href="css/bubbles.css" type="text/css" rel="stylesheet">
     </head>
     <body>
