@@ -1,5 +1,14 @@
 ### Hi there 👋
 I like C++ and C# 
+
+### My projects:
+```cpp
+Fractal Engine - 3D OpenGL Game Engine with Editor (Open Source soon!)
+```
+```asm
+Blue - My C operating system
+```
+
 ### Languages
 
 * C++
