@@ -3,8 +3,9 @@ I like C++ and C#
 
 ### My projects:
 ```asm
-Fractal Engine - 3D OpenGL Game Engine with Editor (Open Source soon!)
+Fractal Engine - 3D OpenGL Game Engine with Editor
 ```
+<a href = "https://github.com/kacperks/Fractal_Engine"> Fractal Engine </a>
 ```asm
 Blue - My C operating system
 ```
