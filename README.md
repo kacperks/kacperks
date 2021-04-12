@@ -7,7 +7,7 @@ Fractal Engine - 3D OpenGL Game Engine with Editor
 ```
 <a href = "https://github.com/kacperks/Fractal_Engine"> Fractal Engine </a>
 ```asm
-Blue - My C operating system
+Blocking 3D - Multiplayer OpenGL SandBox FPS (OpenSource Soon)
 ```
 
 ### Languages
