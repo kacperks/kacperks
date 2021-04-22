@@ -4,12 +4,12 @@ I like C++ and Lua
 My passions are Programming, Physics and Chemistry
 
 ### My projects:
-# Fractal Engine
+#### Fractal Engine
 ```asm
 Fractal Engine - 3D OpenGL Game Engine with Editor
 ```
 <a href = "https://github.com/kacperks/Fractal_Engine"> Fractal Engine </a>
-# Blocking 3D
+#### Blocking 3D
 ```asm
 Blocking 3D - Multiplayer OpenGL SandBox FPS (OpenSource Soon)
 ```
