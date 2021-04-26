@@ -24,9 +24,7 @@ Blocking 3D - Multiplayer OpenGL SandBox FPS (OpenSource Soon)
 * JS(i dont like this one..)
 * Java
 * Assembly
-<!--
-**kacperks/kacperks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-{{ LANGUAGE_TEMPLATE_START:max=4 }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kacperks&count_private=true&theme=dark&show_icons=true&hide_langs_below=1")
+
+<!--
