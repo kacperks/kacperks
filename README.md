@@ -26,5 +26,5 @@ Blocking 3D - Multiplayer OpenGL SandBox FPS (OpenSource Soon)
 * Assembly
 <!--
 **kacperks/kacperks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kacperks&count_private=true&theme=dark&show_icons=true&hide_langs_below=1")
 
