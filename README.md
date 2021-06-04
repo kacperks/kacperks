@@ -3,12 +3,6 @@ I like C++ and Lua
 
 My passions are Programming, Physics and Chemistry
 
-### My projects:
-#### <a href = "https://github.com/kacperks/Fractal_Engine"> Fractal Engine </a>
-```asm
-Fractal Engine - 3D OpenGL Game Engine with Editor
-```
-
 ### Languages
 
 * C++
