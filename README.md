@@ -1,18 +1,7 @@
 ### Hi there 👋
-I like C++ and Lua
+I like Game Engines, Math and C++ 👽
 
-My passions are Programming, Physics and Chemistry
-
-### Languages
-
-* C++
-* C
-* C#
-* Lua
-* Rust
-* JS(i dont like this one..)
-* Java
-* Assembly
+My passions are Programming ,Math ,Physics and Chemistry
 
 ## Stats
 
