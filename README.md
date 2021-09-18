@@ -1,7 +1,7 @@
 ### Hi there 👋
-I like Game Engines, Math and C/C++ 👽
+I am interested in Game Engines, Math and C/C++ 👽
 
-I also like Physics ,Chemistry and Electronics
+I also love Physics ,Chemistry and Electronics
 
 Contact:
 * Discord : `kacperks#7803`
