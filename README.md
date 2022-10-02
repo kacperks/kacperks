@@ -7,7 +7,7 @@ I'm currently working on Voxeler(not public yet)
 
 personal website: https://kacperks.cubesoftware.xyz
 
-Donate via Monero: ` 471L4C1ChmRWhYXAUUj6Qb5HcYDpy8Cah2bRcX1ZWdzUCVm2Mk6i4Q799L5ZjTyCnpYfsBc84EJnVHcPTRyZ6z7YEKjz9gP `
+Donate via Monero: ` 481DHwnNgVtDU2JTBGL3v9cxtXdHzPKbtjDr `
 
 Contact:
 * Discord : `kacperks#7803`
