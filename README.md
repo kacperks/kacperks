@@ -3,7 +3,7 @@ I am interested in Game Engines, Math and C/C++ 👽
 
 I also love Physics ,Chemistry and Electronics
 
-I'm currently working on Voxeler(not public yet)
+I'm currently working on Voxeler & GeoCube(not public yet)
 
 personal website: https://kacperks.cubesoftware.xyz
 
