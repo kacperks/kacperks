@@ -10,7 +10,7 @@ personal website: https://kacperks.cubesoftware.xyz
 Donate via Monero: ` 481DHwnNgVtDU2JTBGL3v9cxtXdHzPKbtjDr `
 
 Accounts on other git services:
-http://git.cubesoftware.xyz:20524/kacperks
+http://git.cubesoftware.xyz:20524/kacperks (most used)
 https://gitlab.com/kacperks
 
 Contact:
