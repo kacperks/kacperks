@@ -3,16 +3,14 @@ I am interested in Game Engines, Math and C/C++ 👽
 
 I also love Physics ,Chemistry and Electronics
 
-I'm currently working on Voxeler & GeoCube(not public yet)
+I'm currently working on Polygun
 
-personal website: https://kacperks.cubesoftware.xyz
+personal website: https://kacperks.cubesoftware.xyz (currently down)
 
 Donate via Monero: ` 481DHwnNgVtDU2JTBGL3v9cxtXdHzPKbtjDr `
 
 Accounts on other git services:
 http://git.cubesoftware.xyz:20524/kacperks (most used)
-
-https://gitlab.com/kacperks
 
 Contact:
 * Discord : `kacperks#7803`
