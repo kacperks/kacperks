@@ -10,10 +10,10 @@ personal website: https://kacperks.cubesoftware.xyz (currently down)
 Donate via Monero: ` 481DHwnNgVtDU2JTBGL3v9cxtXdHzPKbtjDr `
 
 Accounts on other git services:
-http://git.cubesoftware.xyz:20524/kacperks (most used)
+https://git.cubesoftware.xyz/kacperks (most used)
 
 Contact:
 * Discord : `kacperks#7803`
 * Matrix : ` @kacperks1:matrix.org `
 * Reddit : ` u/kacperks1 `
-* Email : `kacperks@cubesoftware.xyz`
+* Email : `kacper.kostka08@gmail.com`
